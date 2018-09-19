@@ -10,3 +10,12 @@ the Etch-A-Sketch above 28 degrees Celsius.
 
 ## Other Deliverables
 The temperature on the two TMP101 sensors can simply be read with the i2c.sh script.
+
+========================
+Professor Yoder's Comments
+
+Looks good.
+Include a setup.sh to configure the pins.
+
+Score:10/10
+

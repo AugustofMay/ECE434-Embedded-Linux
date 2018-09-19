@@ -19,7 +19,7 @@ Uses the arrow keys to move, "e" to exit, and spacebar to shake the sketch away.
 ==========================
 Professor Yoder's comments
 
-It's not responding to the arrow keys.  Fit it and I'll give some 
+It's not responding to the arrow keys.  Fix it and I'll give some 
 points back.
 
 Scor:   5/10
