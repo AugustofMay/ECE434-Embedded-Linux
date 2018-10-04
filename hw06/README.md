@@ -1,3 +1,4 @@
+# Homework 6
 1.	Where does Julia Cartwright work? National Instruments
 2.	What is PREEMT_RT? A patch that converts Linux to a fully preemptible kernel
 3.	What is mixed criticality? Processing that has a mix of critical, real-time tasks and unbounded, non-real-time tasks
