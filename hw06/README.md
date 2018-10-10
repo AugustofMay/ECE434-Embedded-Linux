@@ -10,3 +10,10 @@
 9.	What is mainline? The main execution thread, not really much of an explanation given
 10.	What is keeping the External event in Figure 3 from starting? A non-critical interrupt requirement that blocks a critical interrupt from being handled
 11.	Why can the External event in Figure 4 start sooner? Activate additional threads to accomodate non-critical and critical interrupts
+
+========================
+Professor Yoder's Comments
+
+Score:  10/10
+
+Try searching "linux mainline"
